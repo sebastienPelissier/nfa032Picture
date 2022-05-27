@@ -1,4 +1,4 @@
-public class Picture implements PictureInterface {
+public class Picture {
     private String name;
     private String p3 = "P3";
     private int width, height;

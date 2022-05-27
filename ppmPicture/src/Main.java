@@ -3,5 +3,7 @@ public class Main {
         Picture picture = new Picture("toto", 21, 44);
 
         System.out.println(picture);
+
+        File.create();
     }
 }
